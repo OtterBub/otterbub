@@ -6,6 +6,9 @@ Image Processing
 ```
 
 # History
+> 22.02 ~ Current
+- Image Processing
+
 > 20.05 ~ 22.02
 - Application Quality Assurance
 
