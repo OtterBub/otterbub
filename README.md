@@ -12,6 +12,8 @@ Image Processing
 
 > 20.05 ~ 22.02
 - Application Quality Assurance
+- Video Conferencing Application Test
+- MacOS, Windows, Android, iOS
 
 > 2016 Graduation Project
 - Gun Shooting Game (DirectX 11 by Gun Hardware)
