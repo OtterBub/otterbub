@@ -14,5 +14,4 @@ Image Processing
 - Application Quality Assurance
 
 > 2016 Graduation Project
-- Gun Shooting Game
-- DirectX 11 by Gun Hardware
+- Gun Shooting Game (DirectX 11 by Gun Hardware)
