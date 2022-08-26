@@ -9,6 +9,7 @@ Image Processing
 > 22.02 ~ Current
 - C/C++ MFC
 - Image Processing
+- Server Engineering
 
 > 20.05 ~ 22.02
 - Application Quality Assurance
