@@ -17,4 +17,4 @@ Image Processing
 - MacOS, Windows, Android, iOS
 
 > 2016 Graduation Project
-- Gun Shooting Game (DirectX 11 by Gun Hardware)
+- Gun Shooting Game (DirectX 11 with Gun Hardware)
