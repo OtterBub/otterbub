@@ -1,6 +1,7 @@
 # Otterbub (SKPark)
 ```
-C\C++ / Python
+C\C++ / Python / Dart
+Contactless Communication Application
 Automation Test (by Appium)
 Image Processing
 ```
