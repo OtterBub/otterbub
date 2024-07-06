@@ -8,6 +8,10 @@ Automation Test (by Appium)
 ```
 
 # History
+> 24.05 ~ Current
+- Dart / Flutter
+- Korean Education Application
+
 > 23.03 ~ 24.03
 - Dart / Flutter
 - C# / Unity
