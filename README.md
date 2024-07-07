@@ -33,3 +33,5 @@ Automation Test (by Appium)
 ![otterbub github stats](https://github-readme-stats.vercel.app/api?username=otterbub&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otterbub&layout=compact)
+
+<a href="https://paypal.me/otterbub/"><img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/blue.svg" height="80"></a>  
