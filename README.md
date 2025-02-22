@@ -1,6 +1,7 @@
 # Otterbub (SKPark)
 ```
-C\C++ / Python / Flutter / Dart
+Flutter / Dart
+C\C++ / Python 
 Contactless Communication Application
 MFC Windows
 PHP Aphach Linux Server
